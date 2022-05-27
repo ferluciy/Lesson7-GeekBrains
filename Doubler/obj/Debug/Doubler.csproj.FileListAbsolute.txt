@@ -1,0 +1,31 @@
+C:\sources\gb\csharp\Lesson7\Doubler\bin\Debug\Doubler.exe.config
+C:\sources\gb\csharp\Lesson7\Doubler\bin\Debug\Doubler.exe
+C:\sources\gb\csharp\Lesson7\Doubler\bin\Debug\Doubler.pdb
+C:\sources\gb\csharp\Lesson7\Doubler\obj\Debug\Doubler.csproj.AssemblyReference.cache
+C:\sources\gb\csharp\Lesson7\Doubler\obj\Debug\Doubler.csproj.SuggestedBindingRedirects.cache
+C:\sources\gb\csharp\Lesson7\Doubler\obj\Debug\Doubler.Main.resources
+C:\sources\gb\csharp\Lesson7\Doubler\obj\Debug\Doubler.Properties.Resources.resources
+C:\sources\gb\csharp\Lesson7\Doubler\obj\Debug\Doubler.csproj.GenerateResource.cache
+C:\sources\gb\csharp\Lesson7\Doubler\obj\Debug\Doubler.csproj.CoreCompileInputs.cache
+C:\sources\gb\csharp\Lesson7\Doubler\obj\Debug\Doubler.exe
+C:\sources\gb\csharp\Lesson7\Doubler\obj\Debug\Doubler.pdb
+D:\Учеба Юнити\Lesson7\Doubler\bin\Debug\Doubler.exe.config
+D:\Учеба Юнити\Lesson7\Doubler\bin\Debug\Doubler.exe
+D:\Учеба Юнити\Lesson7\Doubler\bin\Debug\Doubler.pdb
+D:\Учеба Юнити\Lesson7\Doubler\obj\Debug\Doubler.csprojAssemblyReference.cache
+D:\Учеба Юнити\Lesson7\Doubler\obj\Debug\Doubler.Main.resources
+D:\Учеба Юнити\Lesson7\Doubler\obj\Debug\Doubler.Properties.Resources.resources
+D:\Учеба Юнити\Lesson7\Doubler\obj\Debug\Doubler.csproj.GenerateResource.cache
+D:\Учеба Юнити\Lesson7\Doubler\obj\Debug\Doubler.exe
+D:\Учеба Юнити\Lesson7\Doubler\obj\Debug\Doubler.pdb
+D:\Учеба Юнити\Проекты\Lesson7\Doubler\bin\Debug\Doubler.exe.config
+D:\Учеба Юнити\Проекты\Lesson7\Doubler\bin\Debug\Doubler.exe
+D:\Учеба Юнити\Проекты\Lesson7\Doubler\bin\Debug\Doubler.pdb
+D:\Учеба Юнити\Проекты\Lesson7\Doubler\obj\Debug\Doubler.csproj.AssemblyReference.cache
+D:\Учеба Юнити\Проекты\Lesson7\Doubler\obj\Debug\Doubler.csproj.SuggestedBindingRedirects.cache
+D:\Учеба Юнити\Проекты\Lesson7\Doubler\obj\Debug\Doubler.Main.resources
+D:\Учеба Юнити\Проекты\Lesson7\Doubler\obj\Debug\Doubler.Properties.Resources.resources
+D:\Учеба Юнити\Проекты\Lesson7\Doubler\obj\Debug\Doubler.csproj.GenerateResource.cache
+D:\Учеба Юнити\Проекты\Lesson7\Doubler\obj\Debug\Doubler.csproj.CoreCompileInputs.cache
+D:\Учеба Юнити\Проекты\Lesson7\Doubler\obj\Debug\Doubler.exe
+D:\Учеба Юнити\Проекты\Lesson7\Doubler\obj\Debug\Doubler.pdb
