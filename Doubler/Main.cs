@@ -126,16 +126,17 @@ namespace Doubler
                 if (list[list.Count - 1] == 1)
                 {
                     UpdateGameState(userNumber -= 1);
-                    list.Remove(list.Count - 1);
+                    list.RemoveAt(list.Count - 1);
                     CheckWin();
                 }
                 else
                 {
                     UpdateGameState(userNumber /= 2);
-                    list.Remove(list.Count - 1);
+                    list.RemoveAt(list.Count - 1);
                     CheckWin();
                 }
             }
+            
         }
     }
 }
