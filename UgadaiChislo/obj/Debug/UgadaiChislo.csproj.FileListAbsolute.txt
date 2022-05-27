@@ -1,0 +1,12 @@
+D:\Учеба Юнити\Проекты\Lesson7\UgadaiChislo\bin\Debug\UgadaiChislo.exe.config
+D:\Учеба Юнити\Проекты\Lesson7\UgadaiChislo\bin\Debug\UgadaiChislo.exe
+D:\Учеба Юнити\Проекты\Lesson7\UgadaiChislo\bin\Debug\UgadaiChislo.pdb
+D:\Учеба Юнити\Проекты\Lesson7\UgadaiChislo\obj\Debug\UgadaiChislo.csproj.AssemblyReference.cache
+D:\Учеба Юнити\Проекты\Lesson7\UgadaiChislo\obj\Debug\UgadaiChislo.csproj.SuggestedBindingRedirects.cache
+D:\Учеба Юнити\Проекты\Lesson7\UgadaiChislo\obj\Debug\UgadaiChislo.Properties.Resources.resources
+D:\Учеба Юнити\Проекты\Lesson7\UgadaiChislo\obj\Debug\UgadaiChislo.UserNumForm.resources
+D:\Учеба Юнити\Проекты\Lesson7\UgadaiChislo\obj\Debug\UgadaiChislo.csproj.GenerateResource.cache
+D:\Учеба Юнити\Проекты\Lesson7\UgadaiChislo\obj\Debug\UgadaiChislo.csproj.CoreCompileInputs.cache
+D:\Учеба Юнити\Проекты\Lesson7\UgadaiChislo\obj\Debug\UgadaiChislo.exe
+D:\Учеба Юнити\Проекты\Lesson7\UgadaiChislo\obj\Debug\UgadaiChislo.pdb
+D:\Учеба Юнити\Проекты\Lesson7\UgadaiChislo\obj\Debug\UgadaiChislo.MainForm.resources
